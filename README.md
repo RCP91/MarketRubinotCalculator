@@ -1,3 +1,3 @@
 # MarketRubinotCalculator
 
-<img>https://imgur.com/B4upAyk</img>
+![](https://imgur.com/B4upAy)
