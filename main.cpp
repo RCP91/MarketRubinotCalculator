@@ -107,7 +107,7 @@ long long CalculateFee(long long price, int percent) {
     if (price <= 0) return 0;
     long long fee = (long long)(price * (percent / 100.0));
     if (fee < 20) fee = 20;
-    if (fee > 1000000) fee = 1000000;
+    //if (fee > 1000000) fee = 1000000;
     return fee;
 }
 std::string StatusText(int t) {
